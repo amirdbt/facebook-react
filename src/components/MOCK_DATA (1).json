@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "first_name": "Alie",
+    "last_name": "Duggan",
+    "email": "aduggan0@cbsnews.com",
+    "gender": "Female"
+  },
+  {
+    "id": 2,
+    "first_name": "Sara",
+    "last_name": "Cullingford",
+    "email": "scullingford1@cmu.edu",
+    "gender": "Female"
+  },
+  {
+    "id": 3,
+    "first_name": "Evin",
+    "last_name": "Garland",
+    "email": "egarland2@privacy.gov.au",
+    "gender": "Male"
+  },
+  {
+    "id": 4,
+    "first_name": "Glendon",
+    "last_name": "Sheerin",
+    "email": "gsheerin3@utexas.edu",
+    "gender": "Male"
+  },
+  {
+    "id": 5,
+    "first_name": "Redford",
+    "last_name": "Ends",
+    "email": "rends4@google.pl",
+    "gender": "Male"
+  },
+  {
+    "id": 6,
+    "first_name": "Arlene",
+    "last_name": "Lindblom",
+    "email": "alindblom5@linkedin.com",
+    "gender": "Female"
+  },
+  {
+    "id": 7,
+    "first_name": "Darren",
+    "last_name": "Clint",
+    "email": "dclint6@squarespace.com",
+    "gender": "Male"
+  },
+  {
+    "id": 8,
+    "first_name": "Annabela",
+    "last_name": "Cliburn",
+    "email": "acliburn7@wired.com",
+    "gender": "Female"
+  },
+  {
+    "id": 9,
+    "first_name": "Arda",
+    "last_name": "Bartaloni",
+    "email": "abartaloni8@zdnet.com",
+    "gender": "Female"
+  },
+  {
+    "id": 10,
+    "first_name": "Darwin",
+    "last_name": "Mowsdale",
+    "email": "dmowsdale9@ustream.tv",
+    "gender": "Male"
+  }
+]

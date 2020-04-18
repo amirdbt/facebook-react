@@ -1,0 +1,63 @@
+body{
+    margin: 0;
+}
+
+
+.profilePic{
+    border-radius: 50%;
+    width: 200px;
+    /* height: 150px; */
+    border-color: white;
+    border: 3px solid white;
+    margin-top: 170px;
+}
+.inner-banner{
+    margin-top: -90px;
+    margin-left: 250px;
+}
+.banner{
+    margin-top: 0;
+    /* padding-top: 0; */
+    background-image:linear-gradient(rgba(0,0,0,.6), rgba(0,0,0,.6)), url('/images/plastic.jpg');
+    background-color: #cccccc;
+    height: 400px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+
+}
+.border-icon{
+    /* border: 1px solid; */
+    background-color: white;
+    margin: 2px;
+    height: 25px;
+    border-radius: 3px;
+    padding: 1px;
+}
+.border-icon-span{
+    background-color: red;
+    color: white;
+    padding-right: 3px;
+    padding-left: 3px;
+    margin-right: 3px;
+    border-radius: 2px;
+    
+}
+
+.bottom-row{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-left: 100px;
+    justify-content: space-evenly;
+    box-shadow: 5px 5px 8px grey, 10px 10px 8px whitesmoke, 15px 15px 8px ghostwhite;
+    /* border: 1px solid; */
+}
+.bottom-row p{
+    /* background-color: red; */
+    /* border: 1px solid gainsboro; */
+    font-size: 20px;
+    padding: 30px, 3px;
+    font-weight: bold;
+}

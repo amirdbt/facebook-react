@@ -1,0 +1,27 @@
+.main{
+    background-color: teal;
+}
+
+.border-Right{
+    border: 1px ;
+    /* border-color: yellow; */
+    margin-right: 20px;
+    /* position: relative; */
+    position: static;
+    /* position: fixed; */
+    /* box-shadow: 1px 2px 3px grey, 6px 4px 3px whitesmoke, 5px 5px 2px ghostwhite; */
+}
+.cards{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    flex-direction: row;
+    max-height: 100vh;
+}
+
+.cards img{
+    margin: 10px;
+    /* border: 3px solid #000; */
+    box-shadow: 3px 3px 8px 0px rgba(0,0,0,0.3); 
+    max-width: 4vw;
+}
